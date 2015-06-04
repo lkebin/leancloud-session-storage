@@ -1,0 +1,15 @@
+{
+  "name": "leancloud-session-storage",
+  "version": "1.0.0",
+  "description": "A session storage for LeanCloud engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kebin Liu <lkebin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "leanengine": "^0.1.4"
+  }
+}
